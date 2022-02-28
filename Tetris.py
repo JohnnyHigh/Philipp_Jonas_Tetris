@@ -30,3 +30,5 @@ while not done:
         if event.key ==     
 
 pygame.quit
+
+print("Flippo")
